@@ -1,0 +1,15 @@
+M:\Работа\GeekBrains\C#\Examples\1_First\bin\Debug\net6.0\1_First.exe
+M:\Работа\GeekBrains\C#\Examples\1_First\bin\Debug\net6.0\1_First.deps.json
+M:\Работа\GeekBrains\C#\Examples\1_First\bin\Debug\net6.0\1_First.runtimeconfig.json
+M:\Работа\GeekBrains\C#\Examples\1_First\bin\Debug\net6.0\1_First.dll
+M:\Работа\GeekBrains\C#\Examples\1_First\bin\Debug\net6.0\1_First.pdb
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\1_First.csproj.AssemblyReference.cache
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\1_First.GeneratedMSBuildEditorConfig.editorconfig
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\1_First.AssemblyInfoInputs.cache
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\1_First.AssemblyInfo.cs
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\1_First.csproj.CoreCompileInputs.cache
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\1_First.dll
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\refint\1_First.dll
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\1_First.pdb
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\1_First.genruntimeconfig.cache
+M:\Работа\GeekBrains\C#\Examples\1_First\obj\Debug\net6.0\ref\1_First.dll
