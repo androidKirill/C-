@@ -86,8 +86,12 @@ while (m <= N)
 string s_N = Console.ReadLine();
 int N = int.Parse(s_N);
 
-Console.Write($"{N} -> {-N}");
+if (N < 0)
+{
+    N = -N;
+}
 
+Console.Write(N);
 
 // ---------------------------------------------------- *_2
 // **. Напишите программу, которая на вход принимает значение, а
